@@ -102,6 +102,33 @@ nav ul li a:hover {
     background: #00CC44;
 }
 
+/* Estilos CSS para el archivo de colaboración */
+.collaboration {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-top: 1px solid #ccc;
+    margin-bottom: 20px;
+}
+.collaboration h2 {
+    margin-top: 0;
+    font-weight: bold;
+    color: #337ab7;
+}
+.collaboration p {
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.collaboration p:last-child {
+    margin-bottom: 0;
+}
+.collaboration a {
+    text-decoration: none;
+    color: #337ab7;
+}
+.collaboration a:hover {
+    color: #23527c;  
+}
+
 footer {
     background-color: #333333;
     color: #FFFFFF;
